@@ -1,0 +1,1217 @@
+﻿Log file open, 10/21/20 13:59:37
+LogInit: Display: Running engine for game: DungeonsOfDaggorath
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.258546
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin StylusInput
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MeshModelingToolset
+LogPluginManager: Mounting plugin ModelingToolsEditorMode
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin Substance
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MegascansPlugin
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin MovieRenderPipeline
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.25-CL-13942748
+LogInit: Engine Version: 4.25.3-13942748+++UE4+Release-4.25
+LogInit: Compatible Engine Version: 4.25.0-13144385+++UE4+Release-4.25
+LogInit: Net CL: 13144385
+LogInit: OS: Windows 10 (Release 2004) (), CPU: Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Jul 25 2020 02:07:48
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.25
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 26
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 38
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 43
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 7
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 37
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/darkf/Documents/GitHub/DungeonsOfDaggorath/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.10.21-17.59.37:504][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.10.21-17.59.37:504][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.10.21-17.59.37:504][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/darkf/Documents/GitHub/DungeonsOfDaggorath/Saved/Config/Windows/Engine.ini]
+[2020.10.21-17.59.37:504][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.10.21-17.59.37:504][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:1]]
+[2020.10.21-17.59.37:504][  0]LogConfig: Setting CVar [[r.RayTracing:0]]
+[2020.10.21-17.59.37:504][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/darkf/Documents/GitHub/DungeonsOfDaggorath/Saved/Config/Windows/Engine.ini]
+[2020.10.21-17.59.37:504][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/darkf/Documents/GitHub/DungeonsOfDaggorath/Saved/Config/Windows/Engine.ini]
+[2020.10.21-17.59.37:504][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.10.21-17.59.37:504][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.10.21-17.59.37:504][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.10.21-17.59.37:504][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.10.21-17.59.37:504][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.10.21-17.59.37:504][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.10.21-17.59.37:504][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.10.21-17.59.37:504][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.10.21-17.59.37:504][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.10.21-17.59.37:504][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.10.21-17.59.37:504][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.10.21-17.59.37:505][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.10.21-17.59.37:505][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.10.21-17.59.37:505][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.10.21-17.59.37:505][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/darkf/Documents/GitHub/DungeonsOfDaggorath/Saved/Config/Windows/Engine.ini]
+[2020.10.21-17.59.37:505][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.10.21-17.59.37:505][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.10.21-17.59.37:505][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.10.21-17.59.37:505][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.10.21-17.59.37:505][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.10.21-17.59.37:505][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.10.21-17.59.37:505][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.10.21-17.59.37:505][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.10.21-17.59.37:505][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.10.21-17.59.37:505][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.10.21-17.59.37:505][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.10.21-17.59.37:505][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.10.21-17.59.37:505][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.10.21-17.59.37:505][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/darkf/Documents/GitHub/DungeonsOfDaggorath/Saved/Config/Windows/Engine.ini]
+[2020.10.21-17.59.37:505][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/darkf/Documents/GitHub/DungeonsOfDaggorath/Saved/Config/Windows/Engine.ini]
+[2020.10.21-17.59.37:507][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/darkf/Documents/GitHub/DungeonsOfDaggorath/Saved/Config/Windows/Scalability.ini]
+[2020.10.21-17.59.37:507][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.10.21-17.59.37:507][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.10.21-17.59.37:507][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/darkf/Documents/GitHub/DungeonsOfDaggorath/Saved/Config/Windows/Scalability.ini]
+[2020.10.21-17.59.37:507][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.10.21-17.59.37:507][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/darkf/Documents/GitHub/DungeonsOfDaggorath/Saved/Config/Windows/Scalability.ini]
+[2020.10.21-17.59.37:507][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.10.21-17.59.37:507][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.10.21-17.59.37:507][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.10.21-17.59.37:507][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.10.21-17.59.37:507][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.10.21-17.59.37:507][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.10.21-17.59.37:508][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.10.21-17.59.37:508][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.10.21-17.59.37:508][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.10.21-17.59.37:508][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.10.21-17.59.37:508][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.10.21-17.59.37:508][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.10.21-17.59.37:508][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.10.21-17.59.37:508][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.10.21-17.59.37:508][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.10.21-17.59.37:508][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.10.21-17.59.37:508][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.10.21-17.59.37:508][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.10.21-17.59.37:508][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/darkf/Documents/GitHub/DungeonsOfDaggorath/Saved/Config/Windows/Scalability.ini]
+[2020.10.21-17.59.37:508][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.10.21-17.59.37:508][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.10.21-17.59.37:508][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.10.21-17.59.37:508][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.10.21-17.59.37:508][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.10.21-17.59.37:508][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.10.21-17.59.37:508][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.10.21-17.59.37:508][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.10.21-17.59.37:508][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.10.21-17.59.37:508][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.10.21-17.59.37:508][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.10.21-17.59.37:508][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.10.21-17.59.37:508][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.10.21-17.59.37:508][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.10.21-17.59.37:508][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.10.21-17.59.37:508][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.10.21-17.59.37:508][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.10.21-17.59.37:508][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.10.21-17.59.37:508][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.10.21-17.59.37:508][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.10.21-17.59.37:508][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.10.21-17.59.37:508][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.10.21-17.59.37:508][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.10.21-17.59.37:508][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.10.21-17.59.37:508][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.10.21-17.59.37:508][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.10.21-17.59.37:508][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.10.21-17.59.37:508][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.10.21-17.59.37:508][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.10.21-17.59.37:508][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.10.21-17.59.37:508][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/darkf/Documents/GitHub/DungeonsOfDaggorath/Saved/Config/Windows/Scalability.ini]
+[2020.10.21-17.59.37:508][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.10.21-17.59.37:508][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.10.21-17.59.37:508][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.10.21-17.59.37:508][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.10.21-17.59.37:508][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.10.21-17.59.37:508][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.10.21-17.59.37:508][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.10.21-17.59.37:508][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.10.21-17.59.37:508][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.10.21-17.59.37:509][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/darkf/Documents/GitHub/DungeonsOfDaggorath/Saved/Config/Windows/Scalability.ini]
+[2020.10.21-17.59.37:509][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.10.21-17.59.37:509][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.10.21-17.59.37:509][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.10.21-17.59.37:509][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.10.21-17.59.37:509][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.10.21-17.59.37:509][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.10.21-17.59.37:509][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.10.21-17.59.37:509][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.10.21-17.59.37:509][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.10.21-17.59.37:509][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.10.21-17.59.37:509][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.10.21-17.59.37:509][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.10.21-17.59.37:509][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.10.21-17.59.37:509][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.10.21-17.59.37:509][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.10.21-17.59.37:509][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.10.21-17.59.37:509][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.10.21-17.59.37:509][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.10.21-17.59.37:509][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.10.21-17.59.37:509][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.10.21-17.59.37:509][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.10.21-17.59.37:509][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.10.21-17.59.37:509][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.10.21-17.59.37:509][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.10.21-17.59.37:509][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.10.21-17.59.37:509][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.10.21-17.59.37:509][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/darkf/Documents/GitHub/DungeonsOfDaggorath/Saved/Config/Windows/Scalability.ini]
+[2020.10.21-17.59.37:509][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.10.21-17.59.37:509][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.10.21-17.59.37:509][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/darkf/Documents/GitHub/DungeonsOfDaggorath/Saved/Config/Windows/Scalability.ini]
+[2020.10.21-17.59.37:509][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.10.21-17.59.37:509][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.10.21-17.59.37:509][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.10.21-17.59.37:509][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.10.21-17.59.37:509][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.10.21-17.59.37:509][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.10.21-17.59.37:509][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.10.21-17.59.37:509][  0]LogInit: Selected Device Profile: [Windows]
+[2020.10.21-17.59.37:509][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.10.21-17.59.37:509][  0]LogHAL: Display: Platform has ~ 16 GB [17017040896 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.10.21-17.59.37:509][  0]LogInit: Going up to parent DeviceProfile []
+[2020.10.21-17.59.37:509][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/darkf/Documents/GitHub/DungeonsOfDaggorath/Saved/Config/Windows/Scalability.ini]
+[2020.10.21-17.59.37:509][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.10.21-17.59.37:509][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.10.21-17.59.37:509][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/darkf/Documents/GitHub/DungeonsOfDaggorath/Saved/Config/Windows/Scalability.ini]
+[2020.10.21-17.59.37:509][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.10.21-17.59.37:509][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/darkf/Documents/GitHub/DungeonsOfDaggorath/Saved/Config/Windows/Scalability.ini]
+[2020.10.21-17.59.37:509][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.10.21-17.59.37:509][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.10.21-17.59.37:509][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.10.21-17.59.37:509][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.10.21-17.59.37:509][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.10.21-17.59.37:509][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.10.21-17.59.37:509][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.10.21-17.59.37:509][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.10.21-17.59.37:509][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.10.21-17.59.37:509][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.10.21-17.59.37:510][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.10.21-17.59.37:510][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.10.21-17.59.37:510][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.10.21-17.59.37:510][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.10.21-17.59.37:510][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.10.21-17.59.37:510][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.10.21-17.59.37:510][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.10.21-17.59.37:510][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.10.21-17.59.37:510][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/darkf/Documents/GitHub/DungeonsOfDaggorath/Saved/Config/Windows/Scalability.ini]
+[2020.10.21-17.59.37:510][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.10.21-17.59.37:510][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.10.21-17.59.37:510][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.10.21-17.59.37:510][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.10.21-17.59.37:510][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.10.21-17.59.37:510][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.10.21-17.59.37:510][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.10.21-17.59.37:510][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.10.21-17.59.37:510][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.10.21-17.59.37:510][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.10.21-17.59.37:510][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.10.21-17.59.37:510][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.10.21-17.59.37:510][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.10.21-17.59.37:510][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.10.21-17.59.37:510][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.10.21-17.59.37:510][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.10.21-17.59.37:510][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.10.21-17.59.37:510][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.10.21-17.59.37:510][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.10.21-17.59.37:510][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.10.21-17.59.37:510][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.10.21-17.59.37:510][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.10.21-17.59.37:510][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.10.21-17.59.37:510][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.10.21-17.59.37:510][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.10.21-17.59.37:510][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.10.21-17.59.37:510][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.10.21-17.59.37:510][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.10.21-17.59.37:510][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.10.21-17.59.37:510][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.10.21-17.59.37:510][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/darkf/Documents/GitHub/DungeonsOfDaggorath/Saved/Config/Windows/Scalability.ini]
+[2020.10.21-17.59.37:510][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.10.21-17.59.37:510][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.10.21-17.59.37:510][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.10.21-17.59.37:510][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.10.21-17.59.37:510][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.10.21-17.59.37:510][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.10.21-17.59.37:510][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.10.21-17.59.37:510][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.10.21-17.59.37:510][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.10.21-17.59.37:510][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/darkf/Documents/GitHub/DungeonsOfDaggorath/Saved/Config/Windows/Scalability.ini]
+[2020.10.21-17.59.37:510][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.10.21-17.59.37:510][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.10.21-17.59.37:510][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.10.21-17.59.37:510][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.10.21-17.59.37:510][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.10.21-17.59.37:510][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.10.21-17.59.37:510][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.10.21-17.59.37:510][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.10.21-17.59.37:510][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.10.21-17.59.37:510][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.10.21-17.59.37:510][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.10.21-17.59.37:510][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.10.21-17.59.37:510][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.10.21-17.59.37:510][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.10.21-17.59.37:510][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.10.21-17.59.37:510][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.10.21-17.59.37:510][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.10.21-17.59.37:510][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.10.21-17.59.37:510][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.10.21-17.59.37:510][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.10.21-17.59.37:510][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.10.21-17.59.37:511][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.10.21-17.59.37:511][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.10.21-17.59.37:511][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.10.21-17.59.37:511][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.10.21-17.59.37:511][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.10.21-17.59.37:511][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/darkf/Documents/GitHub/DungeonsOfDaggorath/Saved/Config/Windows/Scalability.ini]
+[2020.10.21-17.59.37:511][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.10.21-17.59.37:511][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.10.21-17.59.37:511][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/darkf/Documents/GitHub/DungeonsOfDaggorath/Saved/Config/Windows/Scalability.ini]
+[2020.10.21-17.59.37:511][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.10.21-17.59.37:511][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.10.21-17.59.37:511][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.10.21-17.59.37:511][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.10.21-17.59.37:511][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.10.21-17.59.37:511][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.10.21-17.59.37:511][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.10.21-17.59.37:511][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.10.21-17.59.37:512][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.10.21-17.59.37:512][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.10.21-17.59.37:512][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2020.10.21-17.59.37:512][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/darkf/Documents/GitHub/DungeonsOfDaggorath/Saved/Config/Windows/Engine.ini]
+[2020.10.21-17.59.37:512][  0]LogInit: Computer: DEVASTATOR
+[2020.10.21-17.59.37:512][  0]LogInit: User: darkf
+[2020.10.21-17.59.37:512][  0]LogInit: CPU Page size=4096, Cores=6
+[2020.10.21-17.59.37:512][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.10.21-17.59.37:513][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2020.10.21-17.59.37:513][  0]LogMemory: Platform Memory Stats for Windows
+[2020.10.21-17.59.37:513][  0]LogMemory: Process Physical Memory: 117.46 MB used, 117.47 MB peak
+[2020.10.21-17.59.37:513][  0]LogMemory: Process Virtual Memory: 112.25 MB used, 112.25 MB peak
+[2020.10.21-17.59.37:513][  0]LogMemory: Physical Memory: 8257.88 MB used,  7970.83 MB free, 16228.71 MB total
+[2020.10.21-17.59.37:513][  0]LogMemory: Virtual Memory: 5185.42 MB used,  134212544.00 MB free, 134217728.00 MB total
+[2020.10.21-17.59.37:728][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.10.21-17.59.37:786][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2020.10.21-17.59.37:787][  0]LogInit: Using OS detected language (en-US).
+[2020.10.21-17.59.37:787][  0]LogInit: Using OS detected locale (en-US).
+[2020.10.21-17.59.37:795][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.10.21-17.59.38:098][  0]LogInit: Setting process to per monitor DPI aware
+[2020.10.21-17.59.38:154][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.10.21-17.59.38:154][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.10.21-17.59.38:352][  0]LogD3D12RHI: Aftermath initialized
+[2020.10.21-17.59.38:352][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2020.10.21-17.59.39:156][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce RTX 2060 (Max supported Feature Level 12_1)
+[2020.10.21-17.59.39:156][  0]LogD3D12RHI: Adapter has 5980MB of dedicated video memory, 0MB of dedicated system memory, and 8114MB of shared system memory, 1 output[s]
+[2020.10.21-17.59.39:224][  0]LogD3D12RHI: Found D3D12 adapter 1: Intel(R) UHD Graphics 630 (Max supported Feature Level 12_1)
+[2020.10.21-17.59.39:224][  0]LogD3D12RHI: Adapter has 128MB of dedicated video memory, 0MB of dedicated system memory, and 8114MB of shared system memory, 0 output[s]
+[2020.10.21-17.59.39:246][  0]LogD3D12RHI: Found D3D12 adapter 2: Microsoft Basic Render Driver (Max supported Feature Level 12_1)
+[2020.10.21-17.59.39:246][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 8114MB of shared system memory, 0 output[s]
+[2020.10.21-17.59.39:246][  0]LogD3D12RHI: Forcing D3D12.AsyncDeferredDeletion=0 as a workaround for a deadlock.
+[2020.10.21-17.59.39:246][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2020.10.21-17.59.39:255][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2020.10.21-17.59.39:344][  0]LogD3D12RHI: The system supports ID3D12Device1.
+[2020.10.21-17.59.39:344][  0]LogD3D12RHI: The system supports ID3D12Device2.
+[2020.10.21-17.59.39:436][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2020.10.21-17.59.39:447][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2020.10.21-17.59.39:469][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2020.10.21-17.59.39:491][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2020.10.21-17.59.39:491][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2020.10.21-17.59.39:494][  0]LogD3D12RHI:     GPU DeviceId: 0x1f11 (for the marketing name, search the web for "GPU Device Id")
+[2020.10.21-17.59.39:494][  0]LogWindows: EnumDisplayDevices:
+[2020.10.21-17.59.39:495][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2020.10.21-17.59.39:495][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.10.21-17.59.39:495][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.10.21-17.59.39:496][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2020.10.21-17.59.39:496][  0]LogWindows:    4. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2020.10.21-17.59.39:496][  0]LogWindows:    5. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2020.10.21-17.59.39:496][  0]LogWindows:    6. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2020.10.21-17.59.39:496][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2020.10.21-17.59.39:496][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce RTX 2060
+[2020.10.21-17.59.39:496][  0]LogD3D12RHI:   Driver Version: 456.71 (internal:27.21.14.5671, unified:456.71)
+[2020.10.21-17.59.39:496][  0]LogD3D12RHI:      Driver Date: 9-30-2020
+[2020.10.21-17.59.39:496][  0]LogRHI: Texture pool is 3283 MB (70% of 4690 MB)
+[2020.10.21-17.59.39:496][  0]LogD3D12RHI: Async texture creation enabled
+[2020.10.21-17.59.39:496][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2020.10.21-17.59.39:811][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.10.21-17.59.39:835][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.10.21-17.59.39:835][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.10.21-17.59.39:835][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.10.21-17.59.39:835][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.10.21-17.59.39:835][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.10.21-17.59.39:835][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.10.21-17.59.39:835][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.10.21-17.59.39:835][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.10.21-17.59.39:835][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.10.21-17.59.39:835][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.10.21-17.59.39:858][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.10.21-17.59.39:858][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.10.21-17.59.39:868][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2020.10.21-17.59.39:878][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.10.21-17.59.39:886][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.10.21-17.59.39:895][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.10.21-17.59.39:906][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.10.21-17.59.39:916][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.10.21-17.59.39:925][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.10.21-17.59.39:957][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.10.21-17.59.39:957][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.10.21-17.59.39:975][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.10.21-17.59.39:975][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.10.21-17.59.39:985][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.10.21-17.59.39:995][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.10.21-17.59.40:007][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.10.21-17.59.40:017][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.10.21-17.59.40:017][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.10.21-17.59.40:024][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.10.21-17.59.40:087][  0]LogShaderCompilers: Guid format shader working directory is -21 characters bigger than the processId version (../../../../../../Users/darkf/Documents/GitHub/DungeonsOfDaggorath/Intermediate/Shaders/WorkingDirectory/14060/).
+[2020.10.21-17.59.40:088][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/darkf/AppData/Local/Temp/UnrealShaderWorkingDir/E14830844161E8CCD7AE44AF02A0476D/'.
+[2020.10.21-17.59.40:089][  0]LogXGEController: Cleaning working directory: C:/Users/darkf/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.10.21-17.59.40:089][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.10.21-17.59.40:089][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.10.21-17.59.40:089][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.10.21-17.59.40:903][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.10.21-17.59.41:007][  0]LogDerivedDataCache: Loaded boot cache 0.10s 77MB C:/Users/darkf/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.10.21-17.59.41:007][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/darkf/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc
+[2020.10.21-17.59.41:008][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/darkf/Documents/GitHub/DungeonsOfDaggorath/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.10.21-17.59.41:008][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.10.21-17.59.41:008][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/darkf/Documents/GitHub/DungeonsOfDaggorath/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.10.21-17.59.41:008][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.10.21-17.59.41:021][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.10.21-17.59.41:021][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.10.21-17.59.41:021][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.10.21-17.59.41:023][  0]LogDerivedDataCache: Using Local data cache path C:/Users/darkf/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.10.21-17.59.41:023][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.10.21-17.59.41:023][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.10.21-17.59.41:092][  0]LogSlate: Using FreeType 2.10.0
+[2020.10.21-17.59.41:093][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.10.21-17.59.41:121][  0]LogAssetRegistry: FAssetRegistry took 0.0025 seconds to start up
+[2020.10.21-17.59.41:379][  0]LogInit: Selected Device Profile: [Windows]
+[2020.10.21-17.59.41:528][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.10.21-17.59.41:528][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.10.21-17.59.41:528][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.10.21-17.59.41:528][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.10.21-17.59.41:528][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.10.21-17.59.41:543][  0]LogNetVersion: DungeonsOfDaggorath 1.0.0, NetCL: 13144385, EngineNetVer: 14, GameNetVer: 0 (Checksum: 2640224271)
+[2020.10.21-17.59.42:268][  0]LogAISub: UAISubsystem::UAISubsystem AISubsystem (00000256360D9380), frame # 0
+[2020.10.21-17.59.42:268][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000025636039440), frame # 0
+[2020.10.21-17.59.42:270][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000025636072400), frame # 0
+[2020.10.21-17.59.42:391][  0]LogPackageLocalizationCache: Processed 24 localized package path(s) for 1 prioritized culture(s) in 0.112986 seconds
+[2020.10.21-17.59.42:399][  0]LogUObjectArray: 15918 objects as part of root set at end of initial load.
+[2020.10.21-17.59.42:399][  0]LogUObjectAllocator: 3965776 out of 0 bytes used by permanent object pool.
+[2020.10.21-17.59.42:399][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.10.21-17.59.42:672][  0]LogPython: Using Python 2.7.14
+[2020.10.21-17.59.43:694][  0]LogSubstanceCoreModule: Substance [CPU] Engine Loaded, Max Texture Size = 2048
+[2020.10.21-17.59.43:710][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.10.21-17.59.43:715][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.10.21-17.59.43:788][  0]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/ThirdPersonOverview': Can't find file.
+[2020.10.21-17.59.43:789][  0]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/ThirdPersonOverview': Can't find file.
+[2020.10.21-17.59.43:789][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/ThirdPersonBP/ThirdPersonOverview.ThirdPersonOverview_C'
+[2020.10.21-17.59.43:840][  0]SourceControl: Source control is disabled
+[2020.10.21-17.59.43:840][  0]SourceControl: Source control is disabled
+[2020.10.21-17.59.43:843][  0]SourceControl: Source control is disabled
+[2020.10.21-17.59.43:845][  0]SourceControl: Source control is disabled
+[2020.10.21-17.59.43:851][  0]SourceControl: Source control is disabled
+[2020.10.21-17.59.44:241][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.10.21-17.59.44:280][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.10.21-17.59.44:280][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.10.21-17.59.44:369][  0]LogOcInput: OculusInput pre-init called
+[2020.10.21-17.59.44:382][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.10.21-17.59.44:382][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.10.21-17.59.45:034][  0]LogEngine: Initializing Engine...
+[2020.10.21-17.59.45:035][  0]LogHMD: SteamVR initialized.  Driver: lighthouse  Display: LHR-9575530A
+[2020.10.21-17.59.45:035][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2020.10.21-17.59.45:037][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.10.21-17.59.45:327][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.10.21-17.59.45:344][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.10.21-17.59.45:344][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000025648112000), frame # 0
+[2020.10.21-17.59.45:344][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000256480FB600), frame # 0
+[2020.10.21-17.59.45:348][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.21-17.59.45:348][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.21-17.59.45:348][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.21-17.59.45:349][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.21-17.59.45:349][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.21-17.59.45:349][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.21-17.59.45:349][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.21-17.59.45:349][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.21-17.59.45:349][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.21-17.59.45:349][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.21-17.59.45:430][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.21-17.59.45:430][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.10.21-17.59.45:430][  0]LogAudioMixer: Display: 2: FrontCenter
+[2020.10.21-17.59.45:430][  0]LogAudioMixer: Display: 3: LowFrequency
+[2020.10.21-17.59.45:430][  0]LogAudioMixer: Display: 4: BackLeft
+[2020.10.21-17.59.45:430][  0]LogAudioMixer: Display: 5: BackRight
+[2020.10.21-17.59.45:430][  0]LogAudioMixer: Display: 6: SideLeft
+[2020.10.21-17.59.45:430][  0]LogAudioMixer: Display: 7: SideRight
+[2020.10.21-17.59.45:635][  0]LogAudioMixer: Display: Using Audio Device HTC-VIVE (NVIDIA High Definition Audio)
+[2020.10.21-17.59.45:639][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.21-17.59.45:643][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.21-17.59.45:643][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.21-17.59.45:644][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.21-17.59.45:646][  0]LogInit: FAudioDevice initialized.
+[2020.10.21-17.59.45:646][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.10.21-17.59.45:738][  0]LogDerivedDataCache: Saved boot cache 0.09s 95MB C:/Users/darkf/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.10.21-17.59.45:753][  0]LogInit: Texture streaming: Enabled
+[2020.10.21-17.59.45:775][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.10.21-17.59.45:775][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.10.21-17.59.45:776][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.10.21-17.59.45:866][  0]LogInit: Transaction tracking system initialized
+[2020.10.21-17.59.45:886][  0]BlueprintLog: New page: Editor Load
+[2020.10.21-17.59.45:965][  0]LocalizationService: Localization service is disabled
+[2020.10.21-17.59.46:143][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.10.21-17.59.46:144][  0]LogCook: Display: Mobile HDR setting 1
+[2020.10.21-17.59.46:311][  0]LogFileCache: Scanning file cache for directory 'C:/Users/darkf/Documents/GitHub/DungeonsOfDaggorath/Content/' took 0.01s
+[2020.10.21-17.59.46:565][  0]SourceControl: Source control is disabled
+[2020.10.21-17.59.46:565][  0]LogUnrealEdMisc: Loading editor; pre map load, took 11.110
+[2020.10.21-17.59.46:565][  0]Cmd: MAP LOAD FILE="../../../../../../Users/darkf/Documents/GitHub/DungeonsOfDaggorath/Content/Maps/Level-01.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.10.21-17.59.46:565][  0]LightingResults: New page: Lighting Build
+[2020.10.21-17.59.46:566][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.10.21-17.59.46:567][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.21-17.59.46:567][  0]MapCheck: New page: Map Check
+[2020.10.21-17.59.46:567][  0]LightingResults: New page: Lighting Build
+[2020.10.21-17.59.46:579][  0]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000025648112000), frame # 0
+[2020.10.21-17.59.46:579][  0]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000256480FB600), frame # 0
+[2020.10.21-17.59.46:580][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2020.10.21-17.59.47:060][  0]LogLinker: Warning: Asset '../../../../../../Users/darkf/Documents/GitHub/DungeonsOfDaggorath/Content/MSPresets/MSTextures/Albedo.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.10.21-17.59.47:070][  0]LogLinker: Warning: Asset '../../../../../../Users/darkf/Documents/GitHub/DungeonsOfDaggorath/Content/MSPresets/MSTextures/Normal.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.10.21-17.59.47:079][  0]LogLinker: Warning: Asset '../../../../../../Users/darkf/Documents/GitHub/DungeonsOfDaggorath/Content/MSPresets/MSTextures/Roughness.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.10.21-17.59.49:434][  0]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{63cfb699-d06f-4c75-9f29-b18238595dbd}.
+[2020.10.21-17.59.49:434][  0]LogAIModule: Creating AISystem for world Level-01
+[2020.10.21-17.59.49:434][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002562D4A5200), frame # 0
+[2020.10.21-17.59.49:434][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000025623A5D580), frame # 0
+[2020.10.21-17.59.49:579][  0]PIE: Warning: Calling GetSectionFromStaticMesh on 1M_Cube but 'Allow CPU Access' is not enabled. This is required for converting StaticMesh to ProceduralMeshComponent in cooked builds.
+[2020.10.21-17.59.49:583][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.10.21-17.59.49:632][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2020.10.21-17.59.49:633][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.10.21-17.59.49:633][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.344ms to complete.
+[2020.10.21-17.59.49:633][  0]LogFileHelpers: Loading map 'Level-01' took 3.068
+[2020.10.21-17.59.49:633][  0]LogAssetRegistry: Flushing asset discovery search because of synchronous request, this can take several seconds...
+[2020.10.21-17.59.49:653][  0]LogAssetRegistry: Asset discovery search completed in 0.0197 seconds
+[2020.10.21-17.59.49:668][  0]LogCollectionManager: Loaded 0 collections in 0.001851 seconds
+[2020.10.21-17.59.49:672][  0]LogFileCache: Scanning file cache for directory 'C:/Users/darkf/Documents/GitHub/DungeonsOfDaggorath/Saved/Collections/' took 0.00s
+[2020.10.21-17.59.49:672][  0]LogFileCache: Scanning file cache for directory 'C:/Users/darkf/Documents/GitHub/DungeonsOfDaggorath/Content/Developers/darkf/Collections/' took 0.00s
+[2020.10.21-17.59.49:672][  0]LogFileCache: Scanning file cache for directory 'C:/Users/darkf/Documents/GitHub/DungeonsOfDaggorath/Content/Collections/' took 0.00s
+[2020.10.21-17.59.49:672][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2020.10.21-17.59.49:674][  0]LogUnrealEdMisc: Total Editor Startup Time, took 14.219
+[2020.10.21-17.59.49:836][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.21-17.59.49:845][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.21-17.59.49:852][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.21-17.59.49:861][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.21-17.59.49:877][  0]LogContentBrowser: Native class hierarchy populated in 0.0101 seconds. Added 3619 classes and 853 folders.
+[2020.10.21-17.59.49:882][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.10.21-17.59.49:936][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0010 seconds. Added 0 classes and 0 folders.
+[2020.10.21-17.59.49:947][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2020.10.21-17.59.50:216][  0]LogSlate: Took 0.000123 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.10.21-17.59.50:218][  0]LogSlate: Took 0.000153 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.10.21-17.59.50:224][  0]LogSlate: Took 0.000290 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.10.21-17.59.50:332][  0]LogRenderer: Reallocating scene render targets to support 1124x520 Format 10 NumSamples 1 (Frame:1).
+[2020.10.21-17.59.50:536][  0]LogSlate: Took 0.000238 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.10.21-17.59.50:701][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0013 seconds. Added 0 classes and 0 folders.
+[2020.10.21-17.59.50:701][  0]LogLoad: (Engine Initialization) Total time: 15.25 seconds
+[2020.10.21-17.59.50:701][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.10.21-17.59.51:042][  0]LogSteamVRInputDevice: Display: SteamVR runtime 1.5.17 loaded.
+[2020.10.21-17.59.51:042][  0]LogSteamVRInputDevice: Display: Action Manifest Path: ../../../../../../Users/darkf/Documents/GitHub/DungeonsOfDaggorath/Config/SteamVRBindings/steamvr_manifest.json
+[2020.10.21-17.59.51:042][  0]LogSteamVRInputDevice: Display: Controller Bindings Path: ../../../../../../Users/darkf/Documents/GitHub/DungeonsOfDaggorath/Config/SteamVRBindings
+[2020.10.21-17.59.51:043][  0]LogSteamVRInputDevice: Searching for Controller Bindings files at: ../../../../../../Users/darkf/Documents/GitHub/DungeonsOfDaggorath/Config/SteamVRBindings
+[2020.10.21-17.59.51:124][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Registering Application Manifest ../../../../../../Users/darkf/Documents/GitHub/DungeonsOfDaggorath/Config/steamvr_ue_editor_app.json : VRApplicationError_None
+[2020.10.21-17.59.51:130][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Editor Application [14060][application.generated.ue.dungeons-of-daggorath-13942748.ue4editor.exe] identified to SteamVR: VRApplicationError_None
+[2020.10.21-17.59.51:130][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Trying to load Action Manifest from: C:/Users/darkf/Documents/GitHub/DungeonsOfDaggorath/Config/SteamVRBindings/steamvr_manifest.json
+[2020.10.21-17.59.51:131][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Manifest Path Result: Success
+[2020.10.21-17.59.51:131][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting main action set: Success
+[2020.10.21-17.59.51:131][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/controllerleft
+[2020.10.21-17.59.51:131][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.10.21-17.59.51:132][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/controllerright
+[2020.10.21-17.59.51:132][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.10.21-17.59.51:132][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/special1
+[2020.10.21-17.59.51:132][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.10.21-17.59.51:132][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/special2
+[2020.10.21-17.59.51:132][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.10.21-17.59.51:132][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/special3
+[2020.10.21-17.59.51:132][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.10.21-17.59.51:132][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/special4
+[2020.10.21-17.59.51:132][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.10.21-17.59.51:132][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/special5
+[2020.10.21-17.59.51:132][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.10.21-17.59.51:132][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/special6
+[2020.10.21-17.59.51:132][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.10.21-17.59.51:132][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/special7
+[2020.10.21-17.59.51:133][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.10.21-17.59.51:133][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/special8
+[2020.10.21-17.59.51:133][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.10.21-17.59.51:133][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/skeletonleft
+[2020.10.21-17.59.51:133][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.10.21-17.59.51:133][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/skeletonright
+[2020.10.21-17.59.51:133][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.10.21-17.59.51:133][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/out/vibrateleft
+[2020.10.21-17.59.51:133][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.10.21-17.59.51:133][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/out/vibrateright
+[2020.10.21-17.59.51:133][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.10.21-17.59.51:133][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/open_console
+[2020.10.21-17.59.51:133][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.10.21-17.59.51:133][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/ResetVR
+[2020.10.21-17.59.51:133][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.10.21-17.59.51:133][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/ResetVR
+[2020.10.21-17.59.51:133][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.10.21-17.59.51:133][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/ResetVR
+[2020.10.21-17.59.51:133][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.10.21-17.59.51:133][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/ResetVR
+[2020.10.21-17.59.51:133][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.10.21-17.59.51:133][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/GrabLeft
+[2020.10.21-17.59.51:133][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.10.21-17.59.51:133][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/GrabRight
+[2020.10.21-17.59.51:133][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.10.21-17.59.51:133][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionThumbpad_L_X,MotionThumbpad_L_Y X Y_axis2d
+[2020.10.21-17.59.51:133][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.10.21-17.59.51:134][  0]LogSteamVRInputDevice: Display: Action Manifest Path: ../../../../../../Users/darkf/Documents/GitHub/DungeonsOfDaggorath/Config/SteamVRBindings/steamvr_manifest.json
+[2020.10.21-17.59.51:134][  0]LogSteamVRInputDevice: Display: Controller Bindings Path: ../../../../../../Users/darkf/Documents/GitHub/DungeonsOfDaggorath/Config/SteamVRBindings
+[2020.10.21-17.59.51:135][  0]LogSteamVRInputDevice: Searching for Controller Bindings files at: ../../../../../../Users/darkf/Documents/GitHub/DungeonsOfDaggorath/Config/SteamVRBindings
+[2020.10.21-17.59.51:140][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Registering Application Manifest ../../../../../../Users/darkf/Documents/GitHub/DungeonsOfDaggorath/Config/steamvr_ue_editor_app.json : VRApplicationError_None
+[2020.10.21-17.59.51:141][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Editor Application [14060][application.generated.ue.dungeons-of-daggorath-13942748.ue4editor.exe] identified to SteamVR: VRApplicationError_None
+[2020.10.21-17.59.51:141][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Trying to load Action Manifest from: C:/Users/darkf/Documents/GitHub/DungeonsOfDaggorath/Config/SteamVRBindings/steamvr_manifest.json
+[2020.10.21-17.59.51:141][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Manifest Path Result: Success
+[2020.10.21-17.59.51:141][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting main action set: Success
+[2020.10.21-17.59.51:141][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/controllerleft
+[2020.10.21-17.59.51:141][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.10.21-17.59.51:141][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/controllerright
+[2020.10.21-17.59.51:141][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.10.21-17.59.51:141][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/special1
+[2020.10.21-17.59.51:141][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.10.21-17.59.51:141][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/special2
+[2020.10.21-17.59.51:141][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.10.21-17.59.51:141][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/special3
+[2020.10.21-17.59.51:141][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.10.21-17.59.51:141][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/special4
+[2020.10.21-17.59.51:141][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.10.21-17.59.51:141][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/special5
+[2020.10.21-17.59.51:141][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.10.21-17.59.51:141][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/special6
+[2020.10.21-17.59.51:141][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.10.21-17.59.51:141][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/special7
+[2020.10.21-17.59.51:142][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.10.21-17.59.51:142][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/special8
+[2020.10.21-17.59.51:142][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.10.21-17.59.51:142][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/skeletonleft
+[2020.10.21-17.59.51:142][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.10.21-17.59.51:142][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/skeletonright
+[2020.10.21-17.59.51:142][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.10.21-17.59.51:142][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/out/vibrateleft
+[2020.10.21-17.59.51:142][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.10.21-17.59.51:142][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/out/vibrateright
+[2020.10.21-17.59.51:142][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.10.21-17.59.51:142][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/open_console
+[2020.10.21-17.59.51:142][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.10.21-17.59.51:142][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/ResetVR
+[2020.10.21-17.59.51:142][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.10.21-17.59.51:142][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/ResetVR
+[2020.10.21-17.59.51:142][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.10.21-17.59.51:142][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/ResetVR
+[2020.10.21-17.59.51:142][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.10.21-17.59.51:142][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/ResetVR
+[2020.10.21-17.59.51:142][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.10.21-17.59.51:142][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/GrabLeft
+[2020.10.21-17.59.51:142][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.10.21-17.59.51:142][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/GrabRight
+[2020.10.21-17.59.51:142][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.10.21-17.59.51:142][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionThumbpad_L_X,MotionThumbpad_L_Y X Y_axis2d
+[2020.10.21-17.59.51:142][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.10.21-17.59.51:211][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.10.21-17.59.51:227][  0]LogTemp: Resetting audio stream to device id 
+[2020.10.21-17.59.51:269][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.21-17.59.51:269][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.10.21-17.59.51:269][  0]LogAudioMixer: Display: 2: FrontCenter
+[2020.10.21-17.59.51:269][  0]LogAudioMixer: Display: 3: LowFrequency
+[2020.10.21-17.59.51:269][  0]LogAudioMixer: Display: 4: BackLeft
+[2020.10.21-17.59.51:269][  0]LogAudioMixer: Display: 5: BackRight
+[2020.10.21-17.59.51:269][  0]LogAudioMixer: Display: 6: SideLeft
+[2020.10.21-17.59.51:269][  0]LogAudioMixer: Display: 7: SideRight
+[2020.10.21-17.59.51:350][  1]LogSubstanceLiveLink: Warning: Unable to send data along socket, closing connection
+[2020.10.21-18.00.02:002][723]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.21-18.00.02:003][723]PIE: New page: PIE session: Level-01 (Oct 21, 2020, 10:00:02 AM)
+[2020.10.21-18.00.02:004][723]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.10.21-18.00.02:005][723]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.10.21-18.00.02:005][723]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level-01
+[2020.10.21-18.00.02:144][723]LogPlayLevel: PIE: StaticDuplicateObject took: (0.137808s)
+[2020.10.21-18.00.02:145][723]LogAIModule: Creating AISystem for world Level-01
+[2020.10.21-18.00.02:145][723]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000256A807FE00), frame # 723
+[2020.10.21-18.00.02:145][723]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000256298DEC00), frame # 723
+[2020.10.21-18.00.02:145][723]LogPlayLevel: PIE: World Init took: (0.001514s)
+[2020.10.21-18.00.02:146][723]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level-01.Level-01 to /Game/Maps/UEDPIE_0_Level-01.Level-01 (0.139706s)
+[2020.10.21-18.00.02:159][723]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2020.10.21-18.00.02:161][723]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.21-18.00.02:161][723]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.21-18.00.02:161][723]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.21-18.00.02:161][723]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.21-18.00.02:161][723]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.21-18.00.02:161][723]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.21-18.00.02:161][723]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.21-18.00.02:161][723]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.21-18.00.02:162][723]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.21-18.00.02:162][723]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.21-18.00.02:166][723]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.21-18.00.02:166][723]LogAudioMixer: Display: 1: FrontRight
+[2020.10.21-18.00.02:166][723]LogAudioMixer: Display: 2: FrontCenter
+[2020.10.21-18.00.02:166][723]LogAudioMixer: Display: 3: LowFrequency
+[2020.10.21-18.00.02:166][723]LogAudioMixer: Display: 4: BackLeft
+[2020.10.21-18.00.02:166][723]LogAudioMixer: Display: 5: BackRight
+[2020.10.21-18.00.02:166][723]LogAudioMixer: Display: 6: SideLeft
+[2020.10.21-18.00.02:166][723]LogAudioMixer: Display: 7: SideRight
+[2020.10.21-18.00.02:199][723]LogAudioMixer: Display: Using Audio Device Headphones (Xbox Controller)
+[2020.10.21-18.00.02:200][723]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.21-18.00.02:200][723]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.21-18.00.02:200][723]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.21-18.00.02:200][723]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.21-18.00.02:219][723]LogInit: FAudioDevice initialized.
+[2020.10.21-18.00.02:248][723]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.21-18.00.02:312][723]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.10.21-18.00.02:442][723]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level-01.Level-01 up for play (max tick rate 0) at 2020.10.21-14.00.02
+[2020.10.21-18.00.02:455][723]LogWorld: Bringing up level for play took: 0.142098
+[2020.10.21-18.00.02:457][723]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2020.10.21-18.00.02:467][723]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 20 classes and 0 folders.
+[2020.10.21-18.00.02:500][723]LogBlueprintUserMessages: [Level-01_C_0] VR MODE!!
+[2020.10.21-18.00.02:512][723]PIE: Server logged in
+[2020.10.21-18.00.02:520][723]PIE: Play in editor total start time 0.517 seconds.
+[2020.10.21-18.00.02:569][723]LogAudio: Warning: Detected orphaned looping sound 'continuous_Drip'.
+[2020.10.21-18.00.02:602][724]LogRenderer: Warning: Resizing VR buffer to 3496 by 1944
+[2020.10.21-18.00.02:602][724]LogRenderer: Reallocating scene render targets to support 3496x1944 Format 10 NumSamples 1 (Frame:1).
+[2020.10.21-18.00.02:771][725]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2020.10.21-18.00.03:642][752]LogHMD: Warning: SteamVR Compositor had an error on present (108)
+[2020.10.21-18.01.14:645][932]LogCharacterMovement: MotionControllerPawn_C_0 is stuck and failed to move! Velocity: X=1.79 Y=-48.42 Z=0.00 Location: X=394.47 Y=-1325.24 Z=75.28 Normal: X=-0.99 Y=0.13 Z=0.00 PenetrationDepth:16.440 Actor:BP_MotionController_C_1 Component:HandMesh BoneName:hand_r (0 other events since notify)
+[2020.10.21-18.01.31:326][679]LogCharacterMovement: MotionControllerPawn_C_0 is stuck and failed to move! Velocity: X=78.33 Y=62.17 Z=0.00 Location: X=224.60 Y=-2274.61 Z=75.28 Normal: X=-0.84 Y=-0.55 Z=0.00 PenetrationDepth:4.654 Actor:BP_MotionController_C_1 Component:HandMesh BoneName:hand_r (1 other events since notify)
+[2020.10.21-18.01.41:760][146]LogCharacterMovement: MotionControllerPawn_C_0 is stuck and failed to move! Velocity: X=45.91 Y=-4.57 Z=0.00 Location: X=216.68 Y=-2274.82 Z=75.28 Normal: X=-0.57 Y=-0.82 Z=0.00 PenetrationDepth:9.810 Actor:BP_MotionController_C_0 Component:HandMesh BoneName:hand_r (9 other events since notify)
+[2020.10.21-18.03.03:504][764]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.21-18.03.03:504][764]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level-01
+[2020.10.21-18.03.03:567][764]LogSlate: Window 'DungeonsOfDaggorath Preview [NetMode: Standalone] (64-bit/Windows) SteamVR' being destroyed
+[2020.10.21-18.03.03:600][764]LogWorld: UWorld::CleanupWorld for Level-01, bSessionEnded=true, bCleanupResources=true
+[2020.10.21-18.03.03:626][764]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.21-18.03.03:642][764]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.21-18.03.03:647][764]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.21-18.03.03:747][764]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000256A807FE00), frame # 8764
+[2020.10.21-18.03.03:747][764]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000256298DEC00), frame # 8764
+[2020.10.21-18.03.03:748][764]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2020.10.21-18.03.03:790][765]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2020.10.21-18.03.14:982][868]LogEditorViewport: Clicking on Actor (LMB): ItemPickup_BP_C (ItemPickup_BP)
+[2020.10.21-18.03.18:229][133]LogSlate: Took 0.000269 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.10.21-18.03.18:241][133]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/ItemPickup_BP.ItemPickup_BP
+[2020.10.21-18.03.18:747][133]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 125 classes and 0 folders.
+[2020.10.21-18.03.19:735][133]LogSlate: Took 0.006057 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.10.21-18.03.19:813][134]LogSlate: Took 0.005985 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.10.21-18.04.00:239][902]BlueprintLog: New page: Compile ItemPickup_BP
+[2020.10.21-18.04.00:321][902]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2020.10.21-18.04.00:370][902]LogSlate: Took 0.000168 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2020.10.21-18.04.01:092][953]LogSavePackage: Moving '../../../../../../Users/darkf/Documents/GitHub/DungeonsOfDaggorath/Saved/ItemPickup_BP41A3A4F74C771522DEAE2C8185AA6112.tmp' to '../../../../../../Users/darkf/Documents/GitHub/DungeonsOfDaggorath/Content/VirtualRealityBP/Blueprints/ItemPickup_BP.uasset'
+[2020.10.21-18.04.01:130][953]AssetCheck: New page: Asset Save: ItemPickup_BP
+[2020.10.21-18.04.01:130][953]LogContentValidation: Display: Validating Blueprint /Game/VirtualRealityBP/Blueprints/ItemPickup_BP.ItemPickup_BP
+[2020.10.21-18.04.52:632][925]BlueprintLog: New page: Compile ItemPickup_BP
+[2020.10.21-18.04.52:708][925]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2020.10.21-18.05.24:426][214]BlueprintLog: New page: Compile ItemPickup_BP
+[2020.10.21-18.05.24:526][214]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2020.10.21-18.05.25:063][257]LogSavePackage: Moving '../../../../../../Users/darkf/Documents/GitHub/DungeonsOfDaggorath/Saved/ItemPickup_BP62D3352E430881A05B48198DEFD67869.tmp' to '../../../../../../Users/darkf/Documents/GitHub/DungeonsOfDaggorath/Content/VirtualRealityBP/Blueprints/ItemPickup_BP.uasset'
+[2020.10.21-18.05.25:080][257]AssetCheck: New page: Asset Save: ItemPickup_BP
+[2020.10.21-18.05.25:080][257]LogContentValidation: Display: Validating Blueprint /Game/VirtualRealityBP/Blueprints/ItemPickup_BP.ItemPickup_BP
+[2020.10.21-18.05.26:097][358]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.10.21-18.05.26:097][358]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.21-18.05.27:775][491]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level-01" FILE="../../../../../../Users/darkf/Documents/GitHub/DungeonsOfDaggorath/Content/Maps/Level-01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.21-18.05.27:823][491]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2020.10.21-18.05.28:424][491]LogSavePackage: Moving '../../../../../../Users/darkf/Documents/GitHub/DungeonsOfDaggorath/Saved/Level-0175F9B5B54FA8ABF55A9CBFA090834D63.tmp' to '../../../../../../Users/darkf/Documents/GitHub/DungeonsOfDaggorath/Content/Maps/Level-01.umap'
+[2020.10.21-18.05.28:470][491]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level-01_BuiltData" FILE="../../../../../../Users/darkf/Documents/GitHub/DungeonsOfDaggorath/Content/Maps/Level-01_BuiltData.uasset" SILENT=true
+[2020.10.21-18.05.29:276][491]LogSavePackage: Moving '../../../../../../Users/darkf/Documents/GitHub/DungeonsOfDaggorath/Saved/Level-01_BuiltDataD01695B14046073B809EA383D3CC6D71.tmp' to '../../../../../../Users/darkf/Documents/GitHub/DungeonsOfDaggorath/Content/Maps/Level-01_BuiltData.uasset'
+[2020.10.21-18.05.29:308][491]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.21-18.05.29:308][491]LogContentValidation: Display: Validating World /Game/Maps/Level-01.Level-01
+[2020.10.21-18.05.29:308][491]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Level-01_BuiltData.Level-01_BuiltData
+[2020.10.21-18.05.40:829][550]LogTemp: Repeating last play command: VR Preview
+[2020.10.21-18.05.40:857][550]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.21-18.05.40:857][550]PIE: New page: PIE session: Level-01 (Oct 21, 2020, 10:05:40 AM)
+[2020.10.21-18.05.40:857][550]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level-01
+[2020.10.21-18.05.40:976][550]LogPlayLevel: PIE: StaticDuplicateObject took: (0.119918s)
+[2020.10.21-18.05.40:977][550]LogAIModule: Creating AISystem for world Level-01
+[2020.10.21-18.05.40:978][550]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002569D8AE000), frame # 19550
+[2020.10.21-18.05.40:978][550]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002566182E340), frame # 19550
+[2020.10.21-18.05.40:978][550]LogPlayLevel: PIE: World Init took: (0.001532s)
+[2020.10.21-18.05.40:978][550]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level-01.Level-01 to /Game/Maps/UEDPIE_0_Level-01.Level-01 (0.121757s)
+[2020.10.21-18.05.41:025][550]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2020.10.21-18.05.41:028][550]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.21-18.05.41:029][550]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.21-18.05.41:029][550]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.21-18.05.41:029][550]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.21-18.05.41:029][550]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.21-18.05.41:029][550]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.21-18.05.41:029][550]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.21-18.05.41:029][550]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.21-18.05.41:029][550]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.21-18.05.41:029][550]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.21-18.05.41:033][550]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.21-18.05.41:033][550]LogAudioMixer: Display: 1: FrontRight
+[2020.10.21-18.05.41:033][550]LogAudioMixer: Display: 2: FrontCenter
+[2020.10.21-18.05.41:033][550]LogAudioMixer: Display: 3: LowFrequency
+[2020.10.21-18.05.41:033][550]LogAudioMixer: Display: 4: BackLeft
+[2020.10.21-18.05.41:033][550]LogAudioMixer: Display: 5: BackRight
+[2020.10.21-18.05.41:033][550]LogAudioMixer: Display: 6: SideLeft
+[2020.10.21-18.05.41:033][550]LogAudioMixer: Display: 7: SideRight
+[2020.10.21-18.05.41:063][550]LogAudioMixer: Display: Using Audio Device Headphones (Xbox Controller)
+[2020.10.21-18.05.41:064][550]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.21-18.05.41:064][550]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.21-18.05.41:064][550]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.21-18.05.41:064][550]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.21-18.05.41:079][550]LogInit: FAudioDevice initialized.
+[2020.10.21-18.05.41:105][550]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.21-18.05.41:162][550]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.10.21-18.05.41:251][550]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level-01.Level-01 up for play (max tick rate 0) at 2020.10.21-14.05.41
+[2020.10.21-18.05.41:257][550]LogWorld: Bringing up level for play took: 0.093815
+[2020.10.21-18.05.41:257][550]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2020.10.21-18.05.41:277][550]LogBlueprintUserMessages: [Level-01_C_0] VR MODE!!
+[2020.10.21-18.05.41:283][550]PIE: Server logged in
+[2020.10.21-18.05.41:288][550]PIE: Play in editor total start time 0.437 seconds.
+[2020.10.21-18.05.41:336][550]LogAudio: Warning: Detected orphaned looping sound 'continuous_Drip'.
+[2020.10.21-18.05.41:404][552]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2020.10.21-18.05.43:614][645]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.21-18.05.43:614][645]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level-01
+[2020.10.21-18.05.43:638][645]LogSlate: Window 'DungeonsOfDaggorath Preview [NetMode: Standalone] (64-bit/Windows) SteamVR' being destroyed
+[2020.10.21-18.05.43:691][645]LogWorld: UWorld::CleanupWorld for Level-01, bSessionEnded=true, bCleanupResources=true
+[2020.10.21-18.05.43:707][645]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.21-18.05.43:721][645]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.21-18.05.43:729][645]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.21-18.05.43:810][645]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002566182E340), frame # 19645
+[2020.10.21-18.05.43:810][645]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002569D8AE000), frame # 19645
+[2020.10.21-18.05.43:819][645]LogUObjectHash: Compacting FUObjectHashTables data took   4.53ms
+[2020.10.21-18.05.43:861][646]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2020.10.21-18.05.45:587][833]LogEditorViewport: Clicking on Actor (LMB): ItemPickup_BP_C (ItemPickup_BP)
+[2020.10.21-18.07.20:808][760]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{211a6b0e-c952-4433-9298-6d0b8b640ec6}.
+[2020.10.21-18.07.20:808][760]LogTemp: Resetting audio stream to device id 
+[2020.10.21-18.07.20:825][760]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.21-18.07.20:825][760]LogAudioMixer: Display: 1: FrontRight
+[2020.10.21-18.07.20:825][760]LogAudioMixer: Display: 2: FrontCenter
+[2020.10.21-18.07.20:825][760]LogAudioMixer: Display: 3: LowFrequency
+[2020.10.21-18.07.20:825][760]LogAudioMixer: Display: 4: BackLeft
+[2020.10.21-18.07.20:825][760]LogAudioMixer: Display: 5: BackRight
+[2020.10.21-18.07.20:825][760]LogAudioMixer: Display: 6: SideLeft
+[2020.10.21-18.07.20:825][760]LogAudioMixer: Display: 7: SideRight
+[2020.10.21-18.15.30:758][671]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2020.10.21-18.15.31:386][671]LogSavePackage: Moving '../../../../../../Users/darkf/Documents/GitHub/DungeonsOfDaggorath/Saved/Level-01_Auto1CEB4FCB1453C16E6FFB60895FC93EB0C.tmp' to '../../../../../../Users/darkf/Documents/GitHub/DungeonsOfDaggorath/Saved/Autosaves/Game/Maps/Level-01_Auto1.umap'
+[2020.10.21-18.15.31:388][671]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level-01' took 0.656
+[2020.10.21-18.15.31:388][671]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.656
+[2020.10.21-18.19.53:661][538]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.21-18.19.53:661][538]PIE: New page: PIE session: Level-01 (Oct 21, 2020, 10:19:53 AM)
+[2020.10.21-18.19.53:661][538]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level-01
+[2020.10.21-18.19.53:785][538]LogPlayLevel: PIE: StaticDuplicateObject took: (0.122454s)
+[2020.10.21-18.19.53:786][538]LogAIModule: Creating AISystem for world Level-01
+[2020.10.21-18.19.53:786][538]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000025653663E00), frame # 28538
+[2020.10.21-18.19.53:786][538]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000256A8C21080), frame # 28538
+[2020.10.21-18.19.53:786][538]LogPlayLevel: PIE: World Init took: (0.001870s)
+[2020.10.21-18.19.53:787][538]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level-01.Level-01 to /Game/Maps/UEDPIE_0_Level-01.Level-01 (0.124676s)
+[2020.10.21-18.19.53:805][538]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2020.10.21-18.19.53:808][538]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.21-18.19.53:808][538]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.21-18.19.53:808][538]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.21-18.19.53:808][538]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.21-18.19.53:808][538]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.21-18.19.53:808][538]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.21-18.19.53:808][538]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.21-18.19.53:808][538]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.21-18.19.53:808][538]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.21-18.19.53:808][538]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.21-18.19.53:812][538]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.21-18.19.53:812][538]LogAudioMixer: Display: 1: FrontRight
+[2020.10.21-18.19.53:812][538]LogAudioMixer: Display: 2: FrontCenter
+[2020.10.21-18.19.53:812][538]LogAudioMixer: Display: 3: LowFrequency
+[2020.10.21-18.19.53:812][538]LogAudioMixer: Display: 4: BackLeft
+[2020.10.21-18.19.53:812][538]LogAudioMixer: Display: 5: BackRight
+[2020.10.21-18.19.53:812][538]LogAudioMixer: Display: 6: SideLeft
+[2020.10.21-18.19.53:812][538]LogAudioMixer: Display: 7: SideRight
+[2020.10.21-18.19.53:828][538]LogAudioMixer: Display: Using Audio Device HTC-VIVE (NVIDIA High Definition Audio)
+[2020.10.21-18.19.53:828][538]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.21-18.19.53:828][538]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.21-18.19.53:828][538]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.21-18.19.53:828][538]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.21-18.19.53:843][538]LogInit: FAudioDevice initialized.
+[2020.10.21-18.19.53:871][538]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.21-18.19.53:922][538]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.10.21-18.19.54:025][538]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level-01.Level-01 up for play (max tick rate 0) at 2020.10.21-14.19.54
+[2020.10.21-18.19.54:030][538]LogWorld: Bringing up level for play took: 0.106475
+[2020.10.21-18.19.54:031][538]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2020.10.21-18.19.54:043][538]LogBlueprintUserMessages: [Level-01_C_0] VR MODE!!
+[2020.10.21-18.19.54:046][538]PIE: Server logged in
+[2020.10.21-18.19.54:050][538]PIE: Play in editor total start time 0.393 seconds.
+[2020.10.21-18.19.54:079][538]LogAudio: Warning: Detected orphaned looping sound 'continuous_Drip'.
+[2020.10.21-18.19.54:161][540]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2020.10.21-18.21.49:770][404]LogCharacterMovement: MotionControllerPawn_C_0 is stuck and failed to move! Velocity: X=100.00 Y=0.49 Z=0.00 Location: X=618.83 Y=3.60 Z=61.62 Normal: X=0.83 Y=-0.51 Z=0.20 PenetrationDepth:3.536 Actor:DestroyableMesh_2 Component:ProceduralMesh BoneName:None (0 other events since notify)
+[2020.10.21-18.22.28:955][158]LogCharacterMovement: MotionControllerPawn_C_0 is stuck and failed to move! Velocity: X=99.47 Y=-10.31 Z=0.00 Location: X=767.16 Y=-722.98 Z=75.28 Normal: X=-0.96 Y=-0.28 Z=0.00 PenetrationDepth:1.081 Actor:BP_MotionController_C_1 Component:HandMesh BoneName:hand_r (0 other events since notify)
+[2020.10.21-18.22.30:874][244]LogCharacterMovement: MotionControllerPawn_C_0 is stuck and failed to move! Velocity: X=-6.33 Y=-99.80 Z=0.00 Location: X=812.75 Y=-808.92 Z=75.28 Normal: X=1.00 Y=-0.03 Z=-0.00 PenetrationDepth:1.338 Actor:BP_Door_WithScript21 Component:Door BoneName:None (2 other events since notify)
+[2020.10.21-18.23.12:782][120]LogCharacterMovement: MotionControllerPawn_C_0 is stuck and failed to move! Velocity: X=-99.96 Y=-2.70 Z=0.00 Location: X=-124.66 Y=-729.01 Z=75.28 Normal: X=0.72 Y=0.69 Z=0.00 PenetrationDepth:4.809 Actor:BP_MotionController_C_1 Component:HandMesh BoneName:hand_r (0 other events since notify)
+[2020.10.21-18.24.14:036][856]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.21-18.24.14:036][856]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level-01
+[2020.10.21-18.24.14:062][856]LogSlate: Window 'DungeonsOfDaggorath Preview [NetMode: Standalone] (64-bit/Windows) SteamVR' being destroyed
+[2020.10.21-18.24.14:108][856]LogWorld: UWorld::CleanupWorld for Level-01, bSessionEnded=true, bCleanupResources=true
+[2020.10.21-18.24.14:128][856]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.21-18.24.14:139][856]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.21-18.24.14:151][856]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.21-18.24.14:218][856]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000256A8C21080), frame # 38856
+[2020.10.21-18.24.14:218][856]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000025653663E00), frame # 38856
+[2020.10.21-18.24.14:227][856]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2020.10.21-18.24.14:263][857]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2020.10.21-18.24.43:094][562]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.21-18.24.43:094][562]PIE: New page: PIE session: Level-01 (Oct 21, 2020, 10:24:43 AM)
+[2020.10.21-18.24.43:094][562]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level-01
+[2020.10.21-18.24.43:214][562]LogPlayLevel: PIE: StaticDuplicateObject took: (0.120288s)
+[2020.10.21-18.24.43:215][562]LogAIModule: Creating AISystem for world Level-01
+[2020.10.21-18.24.43:215][562]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000256C980E200), frame # 39562
+[2020.10.21-18.24.43:215][562]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000256BC14DA80), frame # 39562
+[2020.10.21-18.24.43:215][562]LogPlayLevel: PIE: World Init took: (0.001486s)
+[2020.10.21-18.24.43:215][562]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level-01.Level-01 to /Game/Maps/UEDPIE_0_Level-01.Level-01 (0.122051s)
+[2020.10.21-18.24.43:234][562]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2020.10.21-18.24.43:236][562]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.21-18.24.43:236][562]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.21-18.24.43:236][562]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.21-18.24.43:236][562]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.21-18.24.43:236][562]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.21-18.24.43:236][562]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.21-18.24.43:236][562]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.21-18.24.43:236][562]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.21-18.24.43:236][562]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.21-18.24.43:236][562]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.21-18.24.43:240][562]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.21-18.24.43:240][562]LogAudioMixer: Display: 1: FrontRight
+[2020.10.21-18.24.43:240][562]LogAudioMixer: Display: 2: FrontCenter
+[2020.10.21-18.24.43:240][562]LogAudioMixer: Display: 3: LowFrequency
+[2020.10.21-18.24.43:240][562]LogAudioMixer: Display: 4: BackLeft
+[2020.10.21-18.24.43:240][562]LogAudioMixer: Display: 5: BackRight
+[2020.10.21-18.24.43:240][562]LogAudioMixer: Display: 6: SideLeft
+[2020.10.21-18.24.43:240][562]LogAudioMixer: Display: 7: SideRight
+[2020.10.21-18.24.43:256][562]LogAudioMixer: Display: Using Audio Device HTC-VIVE (NVIDIA High Definition Audio)
+[2020.10.21-18.24.43:257][562]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.21-18.24.43:257][562]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.21-18.24.43:257][562]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.21-18.24.43:257][562]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.21-18.24.43:273][562]LogInit: FAudioDevice initialized.
+[2020.10.21-18.24.43:297][562]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.21-18.24.43:347][562]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.10.21-18.24.43:415][562]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level-01.Level-01 up for play (max tick rate 0) at 2020.10.21-14.24.43
+[2020.10.21-18.24.43:417][562]LogWorld: Bringing up level for play took: 0.067737
+[2020.10.21-18.24.43:417][562]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2020.10.21-18.24.43:429][562]LogBlueprintUserMessages: [Level-01_C_0] VR MODE!!
+[2020.10.21-18.24.43:435][562]PIE: Server logged in
+[2020.10.21-18.24.43:437][562]PIE: Play in editor total start time 0.344 seconds.
+[2020.10.21-18.24.43:468][562]LogAudio: Warning: Detected orphaned looping sound 'continuous_Drip'.
+[2020.10.21-18.24.43:549][564]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2020.10.21-18.25.26:567][498]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.21-18.25.26:567][498]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level-01
+[2020.10.21-18.25.26:590][498]LogSlate: Window 'DungeonsOfDaggorath Preview [NetMode: Standalone] (64-bit/Windows) SteamVR' being destroyed
+[2020.10.21-18.25.26:626][498]LogWorld: UWorld::CleanupWorld for Level-01, bSessionEnded=true, bCleanupResources=true
+[2020.10.21-18.25.26:647][498]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.21-18.25.26:665][498]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.21-18.25.26:672][498]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.21-18.25.26:740][498]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000256BC14DA80), frame # 41498
+[2020.10.21-18.25.26:740][498]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000256C980E200), frame # 41498
+[2020.10.21-18.25.26:751][498]LogUObjectHash: Compacting FUObjectHashTables data took   4.40ms
+[2020.10.21-18.25.26:799][499]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2020.10.21-18.26.47:117][775]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.21-18.26.47:117][775]PIE: New page: PIE session: Level-01 (Oct 21, 2020, 10:26:47 AM)
+[2020.10.21-18.26.47:117][775]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level-01
+[2020.10.21-18.26.47:235][775]LogPlayLevel: PIE: StaticDuplicateObject took: (0.118758s)
+[2020.10.21-18.26.47:236][775]LogAIModule: Creating AISystem for world Level-01
+[2020.10.21-18.26.47:236][775]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000256B8A4BE00), frame # 43775
+[2020.10.21-18.26.47:236][775]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002569DD14E00), frame # 43775
+[2020.10.21-18.26.47:237][775]LogPlayLevel: PIE: World Init took: (0.001460s)
+[2020.10.21-18.26.47:237][775]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level-01.Level-01 to /Game/Maps/UEDPIE_0_Level-01.Level-01 (0.120540s)
+[2020.10.21-18.26.47:256][775]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2020.10.21-18.26.47:259][775]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.21-18.26.47:259][775]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.21-18.26.47:259][775]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.21-18.26.47:259][775]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.21-18.26.47:259][775]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.21-18.26.47:259][775]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.21-18.26.47:260][775]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.21-18.26.47:260][775]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.21-18.26.47:261][775]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.21-18.26.47:261][775]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.21-18.26.47:265][775]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.21-18.26.47:265][775]LogAudioMixer: Display: 1: FrontRight
+[2020.10.21-18.26.47:265][775]LogAudioMixer: Display: 2: FrontCenter
+[2020.10.21-18.26.47:265][775]LogAudioMixer: Display: 3: LowFrequency
+[2020.10.21-18.26.47:265][775]LogAudioMixer: Display: 4: BackLeft
+[2020.10.21-18.26.47:265][775]LogAudioMixer: Display: 5: BackRight
+[2020.10.21-18.26.47:265][775]LogAudioMixer: Display: 6: SideLeft
+[2020.10.21-18.26.47:265][775]LogAudioMixer: Display: 7: SideRight
+[2020.10.21-18.26.47:282][775]LogAudioMixer: Display: Using Audio Device HTC-VIVE (NVIDIA High Definition Audio)
+[2020.10.21-18.26.47:282][775]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.21-18.26.47:282][775]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.21-18.26.47:282][775]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.21-18.26.47:283][775]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.21-18.26.47:297][775]LogInit: FAudioDevice initialized.
+[2020.10.21-18.26.47:321][775]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.21-18.26.47:377][775]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.10.21-18.26.47:437][775]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level-01.Level-01 up for play (max tick rate 0) at 2020.10.21-14.26.47
+[2020.10.21-18.26.47:438][775]LogWorld: Bringing up level for play took: 0.060554
+[2020.10.21-18.26.47:438][775]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2020.10.21-18.26.47:448][775]LogBlueprintUserMessages: [Level-01_C_0] VR MODE!!
+[2020.10.21-18.26.47:452][775]PIE: Server logged in
+[2020.10.21-18.26.47:454][775]PIE: Play in editor total start time 0.338 seconds.
+[2020.10.21-18.26.47:479][775]LogAudio: Warning: Detected orphaned looping sound 'continuous_Drip'.
+[2020.10.21-18.26.47:551][777]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2020.10.21-18.29.26:534][777]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.21-18.29.26:534][777]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level-01
+[2020.10.21-18.29.26:536][777]LogSlate: Window 'DungeonsOfDaggorath Preview [NetMode: Standalone] (64-bit/Windows) SteamVR' being destroyed
+[2020.10.21-18.29.26:593][777]LogWorld: UWorld::CleanupWorld for Level-01, bSessionEnded=true, bCleanupResources=true
+[2020.10.21-18.29.26:618][777]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.21-18.29.26:642][777]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.21-18.29.26:662][777]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.21-18.29.26:778][777]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002569DD14E00), frame # 49777
+[2020.10.21-18.29.26:778][777]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000256B8A4BE00), frame # 49777
+[2020.10.21-18.29.26:797][777]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2020.10.21-18.29.26:845][778]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2020.10.21-18.29.45:965][575]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2020.10.21-18.29.47:786][575]LogSlate: Window 'Save Content' being destroyed
+[2020.10.21-18.29.47:856][575]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level-01" FILE="../../../../../../Users/darkf/Documents/GitHub/DungeonsOfDaggorath/Content/Maps/Level-01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.21-18.29.47:881][575]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2020.10.21-18.29.48:498][575]LogSavePackage: Moving '../../../../../../Users/darkf/Documents/GitHub/DungeonsOfDaggorath/Saved/Level-018717496946FC226F49EA8C911AFC2D1E.tmp' to '../../../../../../Users/darkf/Documents/GitHub/DungeonsOfDaggorath/Content/Maps/Level-01.umap'
+[2020.10.21-18.29.48:541][575]LogFileHelpers: Saving map 'Level-01' took 0.686
+[2020.10.21-18.29.48:541][575]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level-01_BuiltData" FILE="../../../../../../Users/darkf/Documents/GitHub/DungeonsOfDaggorath/Content/Maps/Level-01_BuiltData.uasset" SILENT=true
+[2020.10.21-18.29.49:095][575]LogSavePackage: Moving '../../../../../../Users/darkf/Documents/GitHub/DungeonsOfDaggorath/Saved/Level-01_BuiltData64A6A94C4054D6F3B41D62AC14E3A34E.tmp' to '../../../../../../Users/darkf/Documents/GitHub/DungeonsOfDaggorath/Content/Maps/Level-01_BuiltData.uasset'
+[2020.10.21-18.29.49:149][576]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.21-18.29.49:149][576]LogContentValidation: Display: Validating World /Game/Maps/Level-01.Level-01
+[2020.10.21-18.29.49:149][576]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Level-01_BuiltData.Level-01_BuiltData
+[2020.10.21-18.29.52:623][881]LogHMD: SteamVR Shutting down.
+[2020.10.21-18.30.13:623][396]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.21-18.30.13:623][396]PIE: New page: PIE session: Level-01 (Oct 21, 2020, 10:30:13 AM)
+[2020.10.21-18.30.13:623][396]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level-01
+[2020.10.21-18.30.13:741][396]LogPlayLevel: PIE: StaticDuplicateObject took: (0.117729s)
+[2020.10.21-18.30.13:742][396]LogAIModule: Creating AISystem for world Level-01
+[2020.10.21-18.30.13:742][396]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000256A8ABBE00), frame # 52396
+[2020.10.21-18.30.13:742][396]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000256BC14C900), frame # 52396
+[2020.10.21-18.30.13:742][396]LogPlayLevel: PIE: World Init took: (0.001543s)
+[2020.10.21-18.30.13:742][396]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level-01.Level-01 to /Game/Maps/UEDPIE_0_Level-01.Level-01 (0.119613s)
+[2020.10.21-18.30.13:760][396]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2020.10.21-18.30.13:762][396]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.21-18.30.13:762][396]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.21-18.30.13:762][396]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.21-18.30.13:762][396]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.21-18.30.13:762][396]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.21-18.30.13:762][396]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.21-18.30.13:762][396]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.21-18.30.13:762][396]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.21-18.30.13:763][396]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.21-18.30.13:763][396]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.21-18.30.13:766][396]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.21-18.30.13:766][396]LogAudioMixer: Display: 1: FrontRight
+[2020.10.21-18.30.13:766][396]LogAudioMixer: Display: 2: FrontCenter
+[2020.10.21-18.30.13:766][396]LogAudioMixer: Display: 3: LowFrequency
+[2020.10.21-18.30.13:766][396]LogAudioMixer: Display: 4: BackLeft
+[2020.10.21-18.30.13:766][396]LogAudioMixer: Display: 5: BackRight
+[2020.10.21-18.30.13:766][396]LogAudioMixer: Display: 6: SideLeft
+[2020.10.21-18.30.13:766][396]LogAudioMixer: Display: 7: SideRight
+[2020.10.21-18.30.13:782][396]LogAudioMixer: Display: Using Audio Device HTC-VIVE (NVIDIA High Definition Audio)
+[2020.10.21-18.30.13:783][396]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.21-18.30.13:783][396]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.21-18.30.13:783][396]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.21-18.30.13:783][396]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.21-18.30.13:797][396]LogInit: FAudioDevice initialized.
+[2020.10.21-18.30.13:824][396]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.21-18.30.14:019][396]LogHMD: SteamVR initialized.  Driver: lighthouse  Display: LHR-9575530A
+[2020.10.21-18.30.15:985][396]LogWindows: Error: === Critical error: ===
+[2020.10.21-18.30.15:985][396]LogWindows: Error: 
+[2020.10.21-18.30.15:985][396]LogWindows: Error: Fatal error!
+[2020.10.21-18.30.15:985][396]LogWindows: Error: 
+[2020.10.21-18.30.15:985][396]LogWindows: Error: Unhandled Exception: EXCEPTION_ACCESS_VIOLATION reading address 0x00000000
+[2020.10.21-18.30.15:985][396]LogWindows: Error: 
+[2020.10.21-18.30.15:985][396]LogWindows: Error: [Callstack] 0x00007ffb54d225f0 UE4Editor-RHI.dll!UnknownFunction []
+[2020.10.21-18.30.15:985][396]LogWindows: Error: [Callstack] 0x00007ffb54cf1360 UE4Editor-RHI.dll!UnknownFunction []
+[2020.10.21-18.30.15:985][396]LogWindows: Error: [Callstack] 0x00007ffb30e7673d UE4Editor-RenderCore.dll!UnknownFunction []
+[2020.10.21-18.30.15:985][396]LogWindows: Error: [Callstack] 0x00007ffb30ea6633 UE4Editor-RenderCore.dll!UnknownFunction []
+[2020.10.21-18.30.15:985][396]LogWindows: Error: [Callstack] 0x00007ffb30ed2b56 UE4Editor-RenderCore.dll!UnknownFunction []
+[2020.10.21-18.30.15:985][396]LogWindows: Error: [Callstack] 0x00007ffb30e704bf UE4Editor-RenderCore.dll!UnknownFunction []
+[2020.10.21-18.30.15:985][396]LogWindows: Error: [Callstack] 0x00007ffb28c1163b UE4Editor-Engine.dll!UnknownFunction []
+[2020.10.21-18.30.15:985][396]LogWindows: Error: [Callstack] 0x00007ffb28bfe0c5 UE4Editor-Engine.dll!UnknownFunction []
+[2020.10.21-18.30.15:985][396]LogWindows: Error: [Callstack] 0x00007ffb28c04328 UE4Editor-Engine.dll!UnknownFunction []
+[2020.10.21-18.30.15:985][396]LogWindows: Error: [Callstack] 0x00007ffb042656b1 UE4Editor-SteamVR.dll!UnknownFunction []
+[2020.10.21-18.30.15:985][396]LogWindows: Error: [Callstack] 0x00007ffb22a61274 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.10.21-18.30.15:985][396]LogWindows: Error: [Callstack] 0x00007ffb22a53bca UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.10.21-18.30.15:985][396]LogWindows: Error: [Callstack] 0x00007ffb22a74d6c UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.10.21-18.30.15:985][396]LogWindows: Error: [Callstack] 0x00007ffb22a54dd9 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.10.21-18.30.15:985][396]LogWindows: Error: [Callstack] 0x00007ffb22a908fa UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.10.21-18.30.15:985][396]LogWindows: Error: [Callstack] 0x00007ffb22a93bbd UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.10.21-18.30.15:985][396]LogWindows: Error: [Callstack] 0x00007ffb22a93598 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.10.21-18.30.15:985][396]LogWindows: Error: [Callstack] 0x00007ffb2251a854 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.10.21-18.30.15:986][396]LogWindows: Error: [Callstack] 0x00007ffb22df1d06 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.10.21-18.30.15:986][396]LogWindows: Error: [Callstack] 0x00007ff7b3807800 UE4Editor.exe!UnknownFunction []
+[2020.10.21-18.30.15:986][396]LogWindows: Error: [Callstack] 0x00007ff7b381ba7c UE4Editor.exe!UnknownFunction []
+[2020.10.21-18.30.15:986][396]LogWindows: Error: [Callstack] 0x00007ff7b381bb5a UE4Editor.exe!UnknownFunction []
+[2020.10.21-18.30.15:986][396]LogWindows: Error: [Callstack] 0x00007ff7b382e31d UE4Editor.exe!UnknownFunction []
+[2020.10.21-18.30.15:986][396]LogWindows: Error: [Callstack] 0x00007ff7b383145a UE4Editor.exe!UnknownFunction []
+[2020.10.21-18.30.15:986][396]LogWindows: Error: [Callstack] 0x00007ffbaba07034 KERNEL32.DLL!UnknownFunction []
+[2020.10.21-18.30.15:986][396]LogWindows: Error: [Callstack] 0x00007ffbad3fcec1 ntdll.dll!UnknownFunction []
+[2020.10.21-18.30.15:986][396]LogWindows: Error: 
+[2020.10.21-18.30.16:005][396]LogExit: Executing StaticShutdownAfterError
+[2020.10.21-18.30.16:019][396]LogWindows: FPlatformMisc::RequestExit(1)
+[2020.10.21-18.30.16:019][396]LogCore: Engine exit requested (reason: Win RequestExit)
+[2020.10.21-18.30.16:029][396]Log file closed, 10/21/20 14:30:16
